@@ -425,38 +425,38 @@ Also sometimes referred to as “Double Proc” or “Auto-E-Auto” combo. This
 
 ### **ENQ-Combo**
 
-![](https://lh5.googleusercontent.com/DkQfgfmuYQEKwFGpkhQYof_irvfnr0MtKZ_uZTUCNeqbG6ot4tekyaSs8SZsIcAdkbKm2b4n1tXpvIZhQgI8_18TRKl5Gv-4W4Y7qdjpR32migpoqbU7A5m2XsMoohvBfdx7Lghm)
+![](.gitbook/assets/foto-27.02.21-15-28-45.gif)
 
 ENQ \(referring to Elemental Skill - Normal Attack - Burst Skill\) allows you to squeeze some extra damage out every time you rotate in to use your Q. It abuses the fact that the different attack types are able to cancel each other’s animations early \(just like dashing or jumping\) and that replacing your Solar Isotoma resets the TB proc timer. It also allows C2 Albedo to quickly gain one more stack at the start of the fight.  
 Side Note: Make sure _not_ to immediately replace your E after the initial hit of your Q landed because it cancels the remaining Fatal Blossoms.
 
 ### **Juggle-Combo \(N5E/N1CE\)**
 
-![](https://lh4.googleusercontent.com/mHmPsDQQMtb7xazxWHQJ2io1P32XQZnmtvewJv5Qp8sKIfvZQBRE6l188QJjzhUmuuWyYcQC8prAaSFNo5rVovAk0FeX8iI8eJP8py_RW1CgXghqTMDkQ41i504guBSMDmpMWTPQ)
+![](.gitbook/assets/foto-27.02.21-15-28-48.gif)
 
 This is more of a fun combo but can come in handy at times. Both the last attack of Albedo’s Normal Attack chain \(N5\) and his Charged Attack string \(N1C\) allow Albedo to lift smaller enemies up in the air. If you immediately follow up and use your Solar Isotoma, you can kick the enemies even further up to juggle them in the air, so to speak. This lifts enemies high enough to trigger fall damage when they land.
 
 ### **E-Sniper**
 
-![](https://lh6.googleusercontent.com/BLGP06rQQVlNmRtU1QrHQ-iUYNDEz_k24KDYEiBiOQKMZP3Ym_ORZieiSSfxV6CAsB6e-DnSMHKlnUKEQJ81pVgleIbf4DkGDK-X61JArLjCtRXBEL4T0Bz8UkiMz6e-_7XLlGEd)
+![](.gitbook/assets/foto-27.02.21-15-28-50.gif)
 
 If you hold down Albedo’s E skill, you can manually aim it and place it in a distance. If used correctly, you can use it to snipe all sorts of targets from a distance like Hilichurls on a tower, Boars or the balloons in the open world puzzles. You can also use it to hit enemies wearing a shield if placed behind them.
 
 ### **N1C \(Walk-Cancel\)**
 
-![](https://lh3.googleusercontent.com/MdcL6be59MWLvrmTS-EfRI497a5f19uarZWFzaySPiFj84jRUKafD1InPAKWbXFjKt14L7xS-2g3ZXmX8ohG8PxbqjCjuq6Ju5ty1txuutSfHcWSrK4LyTq1cSDNCV4zNUORxdTD)
+![](.gitbook/assets/foto-27.02.21-15-28-53.gif)
 
 If just used regularly, Albedo’s N1C is very slow and has a huge delay before it is reusable. If you simply walk forward \(hold W key or D-Pad\) during N1C, you can cancel the delay and spam N1C much faster.
 
 ### **Oceanid Trick**
 
-![](https://lh3.googleusercontent.com/Yff22EBmtZHpYaDeHGKpqd0sJiBdXG2cPirmSwhyfodT3h2vR1omQE9WCEOtCe-0l3JuGVqV1A028bWzmhhDTT1nhb--IkjIPHAyn8SqeaWuthuYvbFCU8GlVsG5JLsS7tmtKikT)
+![](.gitbook/assets/02.png)
 
 There is a way to make use of your Solar Isotoma during the Oceanid fight if you place it on the construction carriers just next to the main platform \(Credits to Astral\#8077\). Just stay close to the edge and enjoy cheating on the floating fish angel.
 
 ### **Elevator Jump**
 
-![](https://lh3.googleusercontent.com/XBNeuQHBXVDkUSBuBO1oL6Hd3y7tfumTiBZYbvJHwFNMOg94tEdk0d97aVsy71i3FOL1uuHInqYAZBVCsE8LZa4nF_TUugx4nBcxrIHbGw_O-8j_gg-H5qFvG9KVrrhdEk4fFby8)
+![](.gitbook/assets/foto-27.02.21-15-28-57.gif)
 
 You can gain additional altitude from your elevator if you dash and jump shortly before the elevator reaches its maximum height. Your dash jump will be accelerated by the momentum of the rising elevator.
 
